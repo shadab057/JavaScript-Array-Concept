@@ -1,0 +1,5 @@
+key Features of Arrays:
+1. Arrays are index-based, starting from 0.
+2. You can access elements using their index, like arrayName[0].
+3. Array can store any data type: strings, number, objects, even functions are other arrays.
+4. Arrays are dynamic - you can add or remove elements anytime 
